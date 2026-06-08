@@ -1,44 +1,65 @@
-# Bus Reservation Management System
+# 🚌 Bus Reservation Management System
 
-A full-featured Bus Reservation Management System with separate User and Admin Panels, designed to streamline the bus booking process and reservation management. The system provides secure authentication, real-time seat availability, booking management, and administrative controls for efficient transportation operations.
+A web-based Bus Reservation Management System designed to simplify online bus ticket booking and management. It has separate User and Admin panels for smooth operation.
 
-## Technologies Used
+---
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+## 🚀 Technologies Used
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-## Key Features
+---
 
-### User Panel
+## ⭐ Features
 
-* User Registration and Login
-* Forgot Password & Change Password Functionality
-* Browse Available Buses
-* Real-Time Seat Availability Status
-* Dynamic Fare Calculation Based on Selected Seats
-* Ticket Booking and Reservation Management
-* User Profile Management
-* Digital Ticket with QR/Scanner Integration
-* Booking Confirmation via Email
-* Feedback Submission System
+### 👤 User Panel
+- User Registration & Login  
+- Forgot / Change Password  
+- Browse Available Buses  
+- Seat Selection System  
+- Ticket Booking  
+- Profile Management  
+- Booking History  
+- Feedback System  
 
-### Admin Panel
+### 🛠️ Admin Panel
+- Admin Login  
+- Manage Buses (Add/Edit/Delete)  
+- Manage Drivers  
+- View & Manage Bookings  
+- Approve / Reject Tickets  
+- View Feedback  
 
-* Secure Admin Authentication
-* Dashboard with Total Revenue, Total Buses, and User Statistics
-* Add, Edit, and Delete Bus Records
-* Add, Edit, and Delete Driver Records
-* Manage User Booking Requests
-* Approve or Reject Reservations
-* Monitor System Activities and Feedback
+---
 
-## Highlights
+## 📸 Screenshots
 
-* Role-Based Access Control (Admin/User)
-* Responsive and User-Friendly Interface
-* Automated Email Notifications
-* Real-Time Booking Management
-* Efficient Transportation Administration System
+### Login Page
+![Login](screenshots/user-login.png)
+
+### User Dashboard
+![Dashboard](screenshots/user-profile.png)
+
+### Seat Selection
+![Seat](screenshots/user-seat-selection.png)
+
+### Admin Dashboard
+![Admin](screenshots/admin-dashboard.png)
+
+---
+
+## 🎯 Highlights
+- Role-based access (Admin/User)  
+- Responsive UI  
+- Real-time booking system  
+- Secure authentication  
+- Easy navigation  
+
+---
+
+## 👨‍💻 Author
+Akash Singh  
+GitHub: https://github.com/Akash-831
