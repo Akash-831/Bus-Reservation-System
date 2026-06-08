@@ -57,7 +57,7 @@
                     </a>
                   </li>
                    <li class="nav-item">
-                    <a href="view_bus_card.php" class="nav-link">
+                    <a href="logout.php" class="nav-link">
                       <i class="nav-icon bi bi-circle"></i>
                       <p>logout</p>
                     </a>

@@ -92,7 +92,12 @@
                       <p>View feedback</p>
                     </a>
                   </li>
-                  
+                  <li class="nav-item">
+                    <a href="logout.php" class="nav-link">
+                      <i class="nav-icon bi bi-circle"></i>
+                      <p>Logout</p>
+                    </a>
+                  </li>
                 </ul>
               </li>
             </ul>
